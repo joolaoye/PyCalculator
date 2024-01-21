@@ -1,6 +1,6 @@
-<h3 align="center">PyCHESS<h3>
+<h3 align="center">PyCalculator<h3>
 <p align="center">
-<a href="https://github.com/joolaoye/PyCHESS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a> &nbsp; <a href=""><img src="https://img.shields.io/badge/Open Source-red.svg"/></a> &nbsp; <a href="https://github.com/joolaoye/PyCHESS/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributors-green.svg"/></a> </p>
+<a href="https://github.com/joolaoye/PyCalculator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a> &nbsp; <a href=""><img src="https://img.shields.io/badge/Open Source-red.svg"/></a> &nbsp; <a href="https://github.com/joolaoye/PyCalculator/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributors-green.svg"/></a> </p>
 
 ## Table of Contents
 - [About](#about)
